@@ -48,7 +48,7 @@ img:hover {
 .column {
   width: 48%;
 
-display: inline-grid;
+display: inline-block;
    justify-content: center;
  }
 }
