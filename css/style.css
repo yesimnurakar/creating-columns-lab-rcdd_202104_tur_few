@@ -46,8 +46,8 @@ img:hover {
   background-color: #dd4444;
 }
 .column {
-  width: 48%;
-  justify-content: center;
+width: 48%;
+justify-content: center;
 display: table;
 clear: both;
  }
