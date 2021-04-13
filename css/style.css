@@ -50,7 +50,7 @@ img:hover {
    display: flex;
      flex-direction: row;
      flex-wrap: wrap;
-     align-content: center;
+     align-items: center;
 
 }
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
