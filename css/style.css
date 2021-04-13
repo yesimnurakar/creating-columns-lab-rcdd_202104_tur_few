@@ -49,6 +49,7 @@ img:hover {
 width: 48%;
 justify-content:space-between;;
 display: flex;
+display: grid;
 
  }
 
