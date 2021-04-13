@@ -55,11 +55,14 @@ clear: both;
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .small {
   width: 40%;
+   display: block;
 }
 /* create your tile classes! we recommend .small .med .large */
 .med {
   width: 60%;
+   display: block;
 }
 .large {
   width: 100%;
+   display: block;
 }
