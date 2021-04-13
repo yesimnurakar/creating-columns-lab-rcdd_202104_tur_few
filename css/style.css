@@ -48,7 +48,7 @@ img:hover {
 .column {
   width: 48%;
 
-   display: flex;
+display: inline-grid;
    justify-content: center;
  }
 }
