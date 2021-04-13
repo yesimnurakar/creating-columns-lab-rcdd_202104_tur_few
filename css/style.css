@@ -49,6 +49,7 @@ img:hover {
   width: 48%;
    display: flex;
      flex-direction: row;
+      justify-content: center;
      flex-wrap: wrap;
      align-items: center;
 
